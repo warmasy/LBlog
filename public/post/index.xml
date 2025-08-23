@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 百年好合</title>
-        <link>http://localhost:1313/post/</link>
+        <link>http://localhost:64530/post/</link>
         <description>Recent content in Posts on 百年好合</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>x dy</copyright>
-        <lastBuildDate>Sat, 23 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 23 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64530/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>灵岩山一日游</title>
-        <link>http://localhost:1313/p/%E7%81%B5%E5%B2%A9%E5%B1%B1%E4%B8%80%E6%97%A5%E6%B8%B8/</link>
+        <link>http://localhost:64530/p/%E7%81%B5%E5%B2%A9%E5%B1%B1%E4%B8%80%E6%97%A5%E6%B8%B8/</link>
         <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%81%B5%E5%B2%A9%E5%B1%B1%E4%B8%80%E6%97%A5%E6%B8%B8/</guid>
+        <guid>http://localhost:64530/p/%E7%81%B5%E5%B2%A9%E5%B1%B1%E4%B8%80%E6%97%A5%E6%B8%B8/</guid>
         <description>&lt;h2 id=&#34;初到灵岩山&#34;&gt;初到灵岩山
 &lt;/h2&gt;&lt;p&gt;啊 ，灵岩山真美啊！&lt;/p&gt;
 &lt;h2 id=&#34;测试&#34;&gt;测试
@@ -22,10 +22,10 @@
         </item>
         <item>
         <title>灵岩山一日游2</title>
-        <link>http://localhost:1313/p/%E7%81%B5%E5%B2%A9%E5%B1%B1%E4%B8%80%E6%97%A5%E6%B8%B82/</link>
+        <link>http://localhost:64530/p/%E7%81%B5%E5%B2%A9%E5%B1%B1%E4%B8%80%E6%97%A5%E6%B8%B82/</link>
         <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%81%B5%E5%B2%A9%E5%B1%B1%E4%B8%80%E6%97%A5%E6%B8%B82/</guid>
+        <guid>http://localhost:64530/p/%E7%81%B5%E5%B2%A9%E5%B1%B1%E4%B8%80%E6%97%A5%E6%B8%B82/</guid>
         <description>&lt;h2 id=&#34;初到灵岩山&#34;&gt;初到灵岩山
 &lt;/h2&gt;&lt;p&gt;啊 ，灵岩山真美啊！&lt;/p&gt;
 &lt;h2 id=&#34;测试&#34;&gt;测试
