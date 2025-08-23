@@ -1,0 +1,45 @@
+[
+    {
+        "title": "失迹的网站",
+        "links": [
+            {
+                "title": "失迹的博客",
+                "website": "https://blog.reincarnatey.net/",
+                "image": "korita.png",
+                "description": "直至雨凝结之时：一个记录技术与思考的博客。"
+            },
+            {
+                "title": "失迹的博客",
+                "website": "https://blog.reincarnatey.net/",
+                "image": "korita.png",
+                "description": "直至雨凝结之时：一个记录技术与思考的博客。"
+            }
+        ]
+    }, {
+        "title": "博客聚合网站",
+        "links": [
+            {
+                "title": "开往 Travellings",
+                "website": "https://www.travellings.cn/",
+                "image": "travelling-light.png",
+                "description": "「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点，从而推动网络的开放性和多元性。",
+                "badge": {
+                    "icon": "🚇",
+                    "link": "https://www.travellings.cn/go.html",
+                    "description": "跳转到随机博客"
+                }
+            },{
+                "title": "中文独立博客列表",
+                "website": "https://github.com/timqian/chinese-independent-blogs",
+                "image": "",
+                "description": ""
+            },
+            {
+                "title": "失迹的博客",
+                "website": "https://blog.reincarnatey.net/",
+                "image": "korita.png",
+                "description": "直至雨凝结之时：一个记录技术与思考的博客。"
+            }
+        ]
+    }
+]
