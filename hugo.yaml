@@ -1,4 +1,4 @@
-baseurl: https://127.0.0.1/
+baseurl: 'https://mylblog.netlify.app'
 languageCode: en-us
 theme: hugo-theme-stack
 title: Example Site
