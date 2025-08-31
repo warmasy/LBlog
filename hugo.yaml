@@ -1,6 +1,6 @@
 baseurl: 'https://mylblog.netlify.app'
 languageCode: en-us
-theme: hugo-theme-stack
+theme: hugo-theme-stack 
 title: Example Site
 copyright: x dy
 
@@ -15,11 +15,11 @@ hasCJKLanguage: true
 languages:
     zh-cn:
         languageName: 简体中文
-        title: 百年好合
+        title: 醉摘镜中花
         weight: 6
         params:
             sidebar:
-                subtitle: 欢迎来到我的网站，此博客由Hugo + Stack进行搭建，主要分享个人生活和学习笔记
+                subtitle: 欢迎来到我的博客,本人是机械工程专业，可是什么都不会（已毕业）。
 services:
     # Change it to your Disqus shortname before using
     disqus:
@@ -29,7 +29,7 @@ services:
         id:
 
 pagination:
-    pagerSize: 2 # 页面文章显示数量
+    pagerSize: 12 # 页面文章显示数量
 
 permalinks:
     post: /p/:slug/
@@ -40,20 +40,18 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /favicon.ico 
-# e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
-# 推荐ico网站：
-    footer:
+    favicon: ./static/favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    footer: # 推荐ico网站：
         since: 2025
         customText:
 
     dateFormat:
         published: 2006-01-02
-        lastUpdated: Jan 02, 2006 15:04 MST
+        lastUpdated: 2006-01-02 # Jan 02, 2006 15:04 MST
 
     sidebar:
         emoji:   # 🍥
-        subtitle: 欢迎来到我的博客。
+        subtitle: 
         avatar:
             enabled: true
             local: true
@@ -160,9 +158,9 @@ params:
             - type: categories
               params:
                   limit: 10
-            # - type: tag-cloud
-              # params:
-                  # limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
         page:
             - type: toc
 
@@ -252,3 +250,12 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
+enableGitInfo: true
+
+frontmatter:
+  lastmod: ['lastmod', ':git', 'date', 'publishDate']
+
+
+
+

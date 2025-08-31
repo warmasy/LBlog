@@ -1,0 +1,8 @@
+
+## 创建新页面
+hugo new content post/2025/2025-08-292hugo博客搭建/index.md
+
+## 生成页面并启动服务
+hugo server -D 
+
+
