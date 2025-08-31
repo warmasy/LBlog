@@ -40,7 +40,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: ./static/favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: static/favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
     footer: # 推荐ico网站：
         since: 2025
         customText:
@@ -200,12 +200,12 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/warmasy
           params:
               icon: brand-github
 
         - identifier: bilibili
-          name: Twitter
+          name: bilibili
           url: https://bilibili.com
           params:
               icon: brand-bilibili # 推荐icon：https://tabler.io/icons
