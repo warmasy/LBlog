@@ -1,5 +1,5 @@
 ---
-title: 灵岩山一日游2
+title: 灵岩山一日游
 description:
 date: 2025-08-23
 categories:
