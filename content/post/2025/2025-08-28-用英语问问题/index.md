@@ -1,6 +1,6 @@
 +++
 date = '2025-08-28T22:36:16+08:00'
-draft = true
+draft = false
 title = '用英语问老外问题'
 categories = ["网站","随笔"]
 tags = ["测试","随笔"]
