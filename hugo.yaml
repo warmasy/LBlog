@@ -40,8 +40,8 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: static/favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
-    footer: # 推荐ico网站：
+    favicon: /favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    footer: # 推荐ico网站：https://www.iconfinder.com/search/stickers?price=free
         since: 2025
         customText:
 

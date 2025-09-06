@@ -4,7 +4,7 @@
     {{ if and (.Site.Params.article.license.enabled) (not (eq .Params.license false)) }}
     <section class="article-copyright">
         {{ partial "helper/icon" "copyright" }}
-        <span><a href="https://creativecommons.org/licenses/by/4.0/">{{ default .Site.Params.article.license.default .Params.license | markdownify }}</a></span>
+        <span><a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans">{{ default .Site.Params.article.license.default .Params.license | markdownify }}</a></span>
     </section>
     {{ end }}
 
