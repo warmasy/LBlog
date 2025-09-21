@@ -1,7 +1,7 @@
 baseurl: 'https://mylblog.netlify.app'
 languageCode: en-us
 theme: hugo-theme-stack 
-title: Example Site
+title: my blog site
 copyright: x dy
 
 # Theme i18n support
@@ -19,7 +19,7 @@ languages:
         weight: 6
         params:
             sidebar:
-                subtitle: 欢迎来到我的博客,本人是机械工程专业，可是什么都不会（已毕业）。
+                subtitle: 欢迎来到我的博客,本人是机械工程专业（已毕业）。
 services:
     # Change it to your Disqus shortname before using
     disqus:
