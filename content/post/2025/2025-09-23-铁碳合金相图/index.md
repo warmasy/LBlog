@@ -5,7 +5,7 @@ draft = false
 title = '铁碳合金相图'
 categories = ["机械"]
 tags = ["铁碳合金相图"]
-image = "Iron_carbon_phase_diagram.svg"
+image = "Iron_carbon_phase_diagram.svg.png"
 +++
 
 
@@ -15,7 +15,7 @@ image = "Iron_carbon_phase_diagram.svg"
 
 网上搜集到的三张铁碳合金相图，第一张是比较老点的书上截的图，第二张是某wiki上截的图，第三张是最近几年某书上的截图，朋友们，感受一下吧，是不是有点绝望？里面有些相同点的位置数据竟然是不同的，哪个才是最最最权威的？对于强迫症患者来说确实让人纠结，对于我来说已经无所谓了，已经无力研究它们的异同了。对于现在的我来说，重点是不要在意这些小细节，对于一个机械自动化工程师来说，不需要了解所有的细节，从宏观角度把握铁碳合金相图，足矣。那就挑一个自己看着顺眼的图来研究吧！
 
-![image-20250923214211728](static/image-20250923214211728.png)
+![image-20250923214211728](Iron_carbon_phase_diagram.svg.png)
 
 ![image-20250826094552719](static/image-20250826094552719.png)
 
