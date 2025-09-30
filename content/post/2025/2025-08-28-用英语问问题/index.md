@@ -3,7 +3,6 @@ date = '2025-08-28T22:36:16+08:00'
 draft = false
 title = '用英语问老外问题'
 categories = ["网站","随笔"]
-tags = ["测试","随笔"]
 image = "Snipaste_2025-08-31_15-55-27.png"
 +++
 

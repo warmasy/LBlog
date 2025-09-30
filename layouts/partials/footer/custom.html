@@ -61,3 +61,29 @@
     initScrollTop();
 </script>
 
+
+
+<!-- <script>
+/***
+ * 愚人节彩蛋 - 你屏幕上有根毛
+ * 提示：仅为娱乐，请勿滥用
+ * 整理：gorpeln https://gorpeln.top/
+ */
+!function() {
+    var bottom = Math.floor(60 * Math.random()),
+        right = Math.floor(50 * Math.random()),
+        rotate = Math.floor(360 * Math.random());
+    var foolsEgg = document.createElement("img");
+    foolsEgg.src = "https://img.gorpeln.top/blog/20250615173327311.png";
+    foolsEgg.style.position = "fixed"; 
+    foolsEgg.style.bottom = "".concat(bottom, "%");
+    foolsEgg.style.right = "".concat(right, "%"); 
+    foolsEgg.style.zIndex = "9999"; 
+    foolsEgg.style.pointerEvents = "none";
+    foolsEgg.style.width = "40%";
+    foolsEgg.style.maxWidth = "190px";
+    foolsEgg.style.transform = "".concat("rotate(", rotate, "deg)"); 
+    document.body.append(foolsEgg);
+} ();
+
+</script> -->

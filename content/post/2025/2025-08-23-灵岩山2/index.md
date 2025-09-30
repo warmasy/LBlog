@@ -3,8 +3,7 @@ title: 灵岩山一日游(测试二)
 description:
 date: 2025-08-23
 categories:
-    - 随笔
-    - 测试
+    - 网站
 ---
 
 ## 初到灵岩山

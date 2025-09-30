@@ -151,7 +151,7 @@ params:
             id:
     widgets: # 右侧边栏的卡片
         homepage:
-            - type: search
+            # - type: search
             - type: archives
               params:
                   limit: 5
@@ -203,17 +203,18 @@ menu:
         #   url: https://github.com/warmasy
         #   params:
         #       icon: brand-github  # 推荐icon：https://tabler.io/icons
-        - identifier: bilibili
-          name: bilibili
-          url: https://bilibili.com
-          params:
-              icon: brand-bilibili
+
         - identifier: email
           name: eamil
           url: mailto:3139822307@qq.com
           params:
               icon: mail
-              
+        - identifier: bilibili
+          name: bilibili
+          url: https://bilibili.com
+          params:
+              icon: brand-bilibili
+         
         - identifier: eTravelling
           name: eTravelling
           url: https://www.travellings.cn/go.html

@@ -3,8 +3,8 @@ date = '2025-09-08T20:51:25+08:00'
 lastmod = '2025-09-08T20:51:25+08:00'
 draft = false
 title = '记爬灵岩山'
-categories = ["生活","随笔"]
-tags = ["生活","随笔"]
+categories = ["随笔"]
+tags = ["随笔"]
 +++
 
 

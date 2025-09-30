@@ -3,8 +3,8 @@ date = '2025-09-24T20:48:51+08:00'
 lastmod = '2025-09-24T20:48:51+08:00'
 draft = false
 title = '软、滑、弹面条的一种制法'
-categories = ["生活","随笔"]
-tags = ["生活","随笔"]
+categories = ["随笔"]
+tags = ["随笔"]
 
 
 +++

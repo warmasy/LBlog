@@ -3,7 +3,7 @@ date = '2025-09-23T21:10:37+08:00'
 lastmod = '2025-09-23T21:10:37+08:00'
 draft = false
 title = '铁碳合金相图'
-categories = ["机械"]
+categories = ["机械工程"]
 tags = ["铁碳合金相图"]
 image = "Iron_carbon_phase_diagram.svg.png"
 +++
