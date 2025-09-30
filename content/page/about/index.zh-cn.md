@@ -7,7 +7,7 @@ menu:
             icon: user
 ---
 
-## 序
+## 先吟诗一首
 <center>锦瑟无端五十弦，一弦一柱思华年</center>
 <center>庄生晓梦迷蝴蝶，望帝春心托杜鹃</center>
 <center>沧海月明珠有泪，蓝田日暖玉生烟</center>
