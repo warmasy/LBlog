@@ -198,12 +198,6 @@ menu:
     main: []
 
     social:
-        # - identifier: github
-        #   name: GitHub
-        #   url: https://github.com/warmasy
-        #   params:
-        #       icon: brand-github  # 推荐icon：https://tabler.io/icons
-
         - identifier: email
           name: eamil
           url: mailto:3139822307@qq.com
@@ -214,6 +208,11 @@ menu:
           url: https://bilibili.com
           params:
               icon: brand-bilibili
+        # - identifier: github
+        #   name: GitHub
+        #   url: https://github.com/warmasy
+        #   params:
+        #       icon: brand-github  # 推荐icon：https://tabler.io/icons
          
         - identifier: eTravelling
           name: eTravelling
