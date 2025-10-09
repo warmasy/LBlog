@@ -219,6 +219,12 @@ menu:
           url: https://www.travellings.cn/go.html
           params:
               icon: train
+        
+        - identifier: Memos
+          name: Memos
+          url: http://memos.3139822.xyz/
+          params:
+              icon: calendar
 
 related:
     includeNewer: true
