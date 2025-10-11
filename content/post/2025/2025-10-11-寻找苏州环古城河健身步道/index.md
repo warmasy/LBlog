@@ -1,11 +1,11 @@
 +++
 date = '2025-10-11T23:15:50+08:00'
-lastmod = '2025-10-11T23:15:50+08:00'
+lastmod = '2025-10-12T02:41:50+08:00'
 draft = false
 title = '寻找苏州环古城河健身步道'
-categories = ["随笔","网站"]
+categories = ["随笔"]
 tags = ["随笔"]
-image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
+image = "苏州八门之平门.png"
 
 +++
 
