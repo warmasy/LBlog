@@ -4,8 +4,7 @@ lastmod = '2025-10-13T20:32:23+08:00'
 draft = false
 title = '虎子'
 categories = ["随笔"]
-tags = ["随笔"]
-image = "matt-le-SJSpo9hQf7s-unsplash.jpg"
+tags = ["随笔","回忆"]
 
 +++
 
