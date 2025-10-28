@@ -8,8 +8,9 @@ hugo new content post/2025/2025-09-28-博客缘起/index.md
 hugo new content post/2025/2025-09-30-上班前怎么下大雨了？/index.md
 hugo new content post/2025/2025-10-11-寻找苏州环古城河健身步道/index.md
 hugo new content post/2025/2025-10-13-虎子/index.md
+hugo new content post/2025/2025-10-28-我又想起了神秀的偈语/index.md
 
 ## 生成页面并启动服务
-hugo server -D 
+hugo server -D
 
 

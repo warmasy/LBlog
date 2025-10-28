@@ -22,3 +22,5 @@ menu:
 comments: false
 ---
 
+此页面存放鄙人的文档笔记。
+
