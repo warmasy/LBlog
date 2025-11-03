@@ -17,6 +17,10 @@ links:
     description: 冰与火之歌中文维基是一个由华人冰火爱好者共同维护的开放维基。
     website: https://asoiaf.huijiwiki.com/wiki/%E5%86%B0%E4%B8%8E%E7%81%AB%E4%B9%8B%E6%AD%8C%E4%B8%AD%E6%96%87%E7%BB%B4%E5%9F%BA
     image: /友情链接/80px-Dragon_blue_2017.webp
+  - title: 便签墙
+    description: 某网友开源的，我用一下
+    website: https://notes.3139822.xyz/
+    image: /友情链接/80px-Dragon_blue_2017.webp    
 menu:
     main: 
         weight: -30
