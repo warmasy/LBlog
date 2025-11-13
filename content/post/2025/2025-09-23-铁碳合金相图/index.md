@@ -5,10 +5,10 @@ draft = false
 title = '铁碳合金相图'
 categories = ["机械工程"]
 image = "Iron_carbon_phase_diagram.svg.png"
+
 +++
 
-
-# 铁碳合金相图
+当你看到这篇帖子的时候，它已经不是最新的帖子了，若想详细查看，请移步[铁碳合金相图](https://autojx.3139822.xyz/003-%E6%9D%90%E6%96%99%E5%8F%8A%E6%80%A7%E8%83%BD/001-%E9%87%91%E5%B1%9E/001-%E9%93%81%E7%A2%B3%E5%90%88%E9%87%91%E7%9B%B8%E5%9B%BE.html)。
 
 ## 文章简介
 
