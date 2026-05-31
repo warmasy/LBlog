@@ -1,0 +1,11 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify --gc"
+  },
+  "devDependencies": {
+    "hugo-bin-extended": "^0.140.2"
+  }
+}
