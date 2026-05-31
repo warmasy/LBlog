@@ -1,5 +1,5 @@
-baseurl: '/'
-# baseurl: 'https://mylblog.netlify.app'
+# baseurl: '/'
+baseurl: 'https://mylblog.netlify.app'
 languageCode: en-us
 theme: hugo-theme-stack 
 title: my blog site
