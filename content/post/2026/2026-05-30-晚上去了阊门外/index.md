@@ -3,9 +3,9 @@ date = '2026-05-31T12:48:03+08:00'
 lastmod = '2026-05-31T12:48:03+08:00'
 draft = false
 title = '2026 05 30 晚上去了阊门附近'
-categories = ["随笔","网站"]
+categories = ["随笔"]
 tags = ["随笔"]
-image = "static/static/image-20260531125607929-1780203391245-1.png"
+image = "static/image-20260531125607929-1780203391245-1.png"
 
 +++
 
