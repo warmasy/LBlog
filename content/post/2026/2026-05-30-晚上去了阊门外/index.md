@@ -2,7 +2,7 @@
 date = '2026-05-31T12:48:03+08:00'
 lastmod = '2026-05-31T12:48:03+08:00'
 draft = false
-title = '2026 05 30 晚上去了阊门'
+title = '晚上去了阊门'
 categories = ["随笔"]
 tags = ["随笔"]
 image = "封面.png"
