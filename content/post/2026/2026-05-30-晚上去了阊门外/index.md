@@ -5,7 +5,7 @@ draft = false
 title = '2026 05 30 晚上去了阊门附近'
 categories = ["随笔"]
 tags = ["随笔"]
-image = "static/image-20260531125607929-1780203391245-1.png"
+image = "image-20260531125607929-1780203391245-1.png"
 
 +++
 
